@@ -2,10 +2,16 @@ h1
 { background-color: rgb(16, 16, 160);
 text-align: center;
 text-decoration: underline;
+ font-family: fantasy;
 }
 
 h2 
 {
-background-color: black;  
-text-align: left;  
+background-color: aquamarine;  
+text-align: left; 
+font-family: cursive; 
+}
+
+p { text-decoration: beige;
+ text-align: left;
 }
