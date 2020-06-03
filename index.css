@@ -1,7 +1,4 @@
-body {
-    background-color: blueviolet;
-    
-}
+
 
 
 
@@ -23,3 +20,7 @@ font-family: cursive;
 p { text-decoration: beige;
  text-align: left;
 }
+
+body
+   { background-color: blueviolet; }
+
